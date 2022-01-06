@@ -1,3 +1,8 @@
+a {
+  font-weight: normal;
+	background-color: green;
+}
+
 .digital p {
   background-color: red;
 }
@@ -8,8 +13,10 @@
 
 .digital p a {
   font-weight: bold;
+	background-color: orange;
 }
 
 .analog p a {
   font-style: italic;
+	background-color: transparent;
 }
