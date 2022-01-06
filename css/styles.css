@@ -28,3 +28,8 @@ h2 {
 .countries h2 {
   font-style: italic;
 }
+
+.column {
+  width: 25%;
+  float: left;
+}
